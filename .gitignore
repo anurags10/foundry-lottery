@@ -12,3 +12,9 @@ docs/
 
 # Dotenv file
 .env
+
+.history
+
+broadcast/
+
+coverage.txt
